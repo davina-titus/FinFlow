@@ -1,6 +1,6 @@
 # FinFlow
 
-A personal finance dashboard built with React and powered by Claude AI. FinFlow lets you track transactions, visualize spending patterns, import bank CSVs, and get AI-generated financial insights — all in a sleek dark-mode interface.
+A personal finance dashboard built with React and powered by Claude AI. FinFlow lets you track transactions, visualize spending patterns, import bank CSVs, and get AI-generated financial insights.
 
 ---
 
